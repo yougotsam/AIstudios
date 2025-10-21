@@ -202,4 +202,12 @@ This guide describes how to build the ZeebsOS homepage using Firebase Studio. It
 }
 ```
 
-Use these blocks and tips as a starting point for building the ZeebsOS homepage in Firebase Studio. They can be adapted or extended to fit your specific design and functionality needs.
+## End Goal & Next Steps
+
+Use these blocks and tips as a starting point for building the ZeebsOS homepage in Firebase Studio. The end goal is a polished, responsive landing page that reflects your brand. After assembling the sections:
+
+1. Preview the page in Firebase Studio and adjust copy, imagery, or animations as needed.
+2. Connect the project to Firebase Hosting or your existing site.
+3. Publish when everything renders and behaves as expected.
+
+You can adapt or extend these examples to fit specific design and functionality requirements.
